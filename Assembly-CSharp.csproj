@@ -47,7 +47,9 @@
   <ItemGroup>
      <Compile Include="Assets\PipeSpawnScript.cs" />
      <Compile Include="Assets\BirdScript.cs" />
+     <Compile Include="Assets\LogicScript.cs" />
      <Compile Include="Assets\PipeMoveScript.cs" />
+     <Compile Include="Assets\PipeMiddleScript.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Scenes" />
      <Reference Include="UnityEngine">
